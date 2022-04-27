@@ -1,0 +1,12 @@
+======== Ideas ========
+1.	Try Google's Universal Sentence Embedding (universal-sentence-encoder-multilingual-large_3.tar)
+2.	Psuedo-labelling (DONE)
+3.	Sample weights in keras (DONE)
+4.	Psuedo Labelling with Open Subtitles
+5.	Since the Eval_Crit is AUC Can this be converted to a ranking problem?
+
+******* TO DO *******
+Check Dell VM -- Send email to team and John
+Setup Azure
+Switch to XLM_Large
+Add lang flag using the XLML-model itself
